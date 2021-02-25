@@ -1,8 +1,8 @@
 {
   "name": "file-tree-gadget",
   "version": "0.1.0",
-  "homepage": "http://sebastienfirouzfar.github.io/reactTuto/",
   "private": true,
+  "homepage": "http://sebastienfirouzfar.github.io/reactTuto/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
